@@ -1,0 +1,21 @@
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
+
+.pequeño {
+    width: 100px;
+    height: 100px;
+}
+
+.mediano {
+    width: 200px;
+    height: 200px;
+}
+
+.grande {
+    width: 300px;
+    height: 300px;
+}
